@@ -1,0 +1,10 @@
+{
+    "C_Cpp.default.compilerPath": "c:\\Users\\SURFACE\\Documents\\C++\\Main.cpp",
+    "python-envs.pythonProjects": [
+        {
+            "path": "PROPYTHON.py",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        }
+    ]
+}
